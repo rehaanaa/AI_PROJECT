@@ -6,4 +6,4 @@ services:
     plan: free
     envVars:
       - key: PORT
-        value: 5000
+        value: 1000
